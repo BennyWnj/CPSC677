@@ -7,12 +7,23 @@ by Binyao Wang (bingyao.wang@yale.edu)
 ## Table of Contents
 
 - [Resources](#resources)
-  - [Placeholder](#tutorials)
+  - [Other Bibliographies](#other-bibliographies)
 - [Papers](#papers)
   - [Detection of Biases](#detection-of-biases)
   - [Measurement of Biases](#measurement-of-biases)
   - [Debiasing Methods](#debiasing-methods)
 
+## Resources
+
+### Other Bibliographies
+
+* A Survey on Bias in Deep NLP [[link](https://www.mdpi.com/2076-3417/11/7/3184/htm)]
+* A Critical Survey of "Bias" in NLP [[link](http://users.umiacs.umd.edu/~hal/docs/daume20power.pdf)]
+* Societal Biases in Language Generation: Progress and Challenges [[link](https://arxiv.org/pdf/2105.04054.pdf)]
+* Papers with Code: Bias Detection [[link](https://paperswithcode.com/task/bias-detection)]
+* Papers with Code: Gender Bias Detection [[link](https://paperswithcode.com/task/gender-bias-detection)]
+
+## Papers
 
 ### Detection of Biases
 In this section, we list papers that observed and studied biases in either static word embeddings or contextualized embeddings.
