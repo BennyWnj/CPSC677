@@ -19,7 +19,7 @@ by Binyao Wang (bingyao.wang@yale.edu)
 
 ### Posts 
 In this section, we list great posts (some of them features awesome 
-visualizations) that investigate biases in word embeddings. 
+visualizations) that investigated biases in word embeddings. 
 * Bias in Word Embeddings: What Causes It? [[link](https://kawine.github.io/blog/nlp/2019/09/23/bias.html)]
 * Racial Bias in BERT (with good visualization) [[link](https://towardsdatascience.com/racial-bias-in-bert-c1c77da6b25a)]
 * Gender bias in word embeddings? [[link](https://www.kaggle.com/rtatman/gender-bias-in-word-embeddings)]
@@ -28,7 +28,7 @@ visualizations) that investigate biases in word embeddings.
 * Need for Fair Word Embeddings in Natural Language Processing [[link](https://medium.com/@pradeeprajkvr/need-for-fair-word-embeddings-in-natural-language-processing-84e52fb8b493)]
 
 ### Tasks and Competitions
-In this section, we list tasks and competitions that aim to address
+In this section, we list tasks and competitions that aimed to address
 biases in NLP. 
 * Jigsaw Unintended Bias in Toxicity Classification [[link](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)]
 * Korean Bias Detection [[link](https://www.kaggle.com/c/korean-bias-detection)]
