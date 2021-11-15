@@ -7,6 +7,8 @@ by Binyao Wang (bingyao.wang@yale.edu)
 ## Table of Contents
 
 - [Resources](#resources)
+  - [Posts](#posts)
+  - [Tasks and Competitions](#tasks-and-competitions)
   - [Other Bibliographies](#other-bibliographies)
 - [Papers](#papers)
   - [Detection of Biases](#detection-of-biases)
@@ -15,8 +17,27 @@ by Binyao Wang (bingyao.wang@yale.edu)
 
 ## Resources
 
-### Other Bibliographies
+### Posts 
+In this section, we list great posts (some of them features awesome 
+visualizations) that investigate biases in word embeddings. 
+* Bias in Word Embeddings: What Causes It? [[link](https://kawine.github.io/blog/nlp/2019/09/23/bias.html)]
+* Racial Bias in BERT (with good visualization) [[link](https://towardsdatascience.com/racial-bias-in-bert-c1c77da6b25a)]
+* Gender bias in word embeddings? [[link](https://www.kaggle.com/rtatman/gender-bias-in-word-embeddings)]
+* On gender bias in word embeddings [[link](https://medium.com/linguaphile/on-gender-bias-in-word-embeddings-e53c40ba9294)]
+* How Word-Embeddings evolved to learn social biases and how to improve them to forget it. [[link](https://medium.com/analytics-vidhya/how-word-embeddings-evolved-to-learn-social-biases-and-how-to-improve-it-to-forget-them-f37e3244d3a5)]
+* Need for Fair Word Embeddings in Natural Language Processing [[link](https://medium.com/@pradeeprajkvr/need-for-fair-word-embeddings-in-natural-language-processing-84e52fb8b493)]
 
+### Tasks and Competitions
+In this section, we list tasks and competitions that aim to address
+biases in NLP. 
+* Jigsaw Unintended Bias in Toxicity Classification [[link](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)]
+* Korean Bias Detection [[link](https://www.kaggle.com/c/korean-bias-detection)]
+* Korean Gender Bias Detection [[link](https://www.kaggle.com/c/korean-gender-bias-detection)]
+* Data Solution Hackathon: Ethical AI [[link](https://www.kaggle.com/c/ds-hackathon-ethical-ai/overview)]
+
+### Other Bibliographies
+In this section, we list other bibliographires including survey type 
+of papers, as well as bias-relevant categories in Papers with Code. 
 * A Survey on Bias in Deep NLP [[link](https://www.mdpi.com/2076-3417/11/7/3184/htm)]
 * A Critical Survey of "Bias" in NLP [[link](http://users.umiacs.umd.edu/~hal/docs/daume20power.pdf)]
 * Societal Biases in Language Generation: Progress and Challenges [[link](https://arxiv.org/pdf/2105.04054.pdf)]
@@ -81,7 +102,7 @@ Gender:
 * Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP (*TACL* 2021) [[paper](https://arxiv.org/pdf/2103.00453.pdf)] [[Github](https://github.com/timoschick/self-debiasing)]
 * On Mitigating Social Biases in Language Modelling and Generation (*ACL* 2021) [[paper](https://aclanthology.org/2021.findings-acl.397.pdf)]
 
-Others:
+Others (Some papers address other types of biases in addition to gender biases):
 * Mitigating Gender Bias in Natural Language Processing: Literature Review (*ACL* 2019) [[paper](https://aclanthology.org/P19-1159.pdf)]
 * The Woman Worked as a Babysitter: On Biases in Language Generation (*EMNLP* 2019) [[paper](https://arxiv.org/pdf/1909.01326.pdf)] [[Github](https://github.com/ewsheng/nlg-bias)]
 * PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction (*EMNLP* 2020) [[paper](https://aclanthology.org/2020.emnlp-main.602.pdf)] 
